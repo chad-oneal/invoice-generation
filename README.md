@@ -1,7 +1,7 @@
 # python &#128013;
 <h3>Author: Chad ONeal<h3>
 This repo holds the PDFs created from excel spreadsheets using the Udemy Python Mega Course <br>
-__________________________________________________________________________________________________________ <br><br>  
+____________________________________________________________________________________________________ <br><br>  
 To open the PDF(s): <br><br>
 <ul>
   <li> Open PyCharm <br>
